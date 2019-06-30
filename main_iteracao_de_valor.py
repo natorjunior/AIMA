@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jun 30 03:24:56 2019
-
-@author: Trisa
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Wed Jun 26 01:35:18 2019
 
 @author: Trisa
